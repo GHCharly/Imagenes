@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto1.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 2,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto2.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 3,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "2,000 c/u",
+    "imagen": "assets/img/Producto3.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 4,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto4.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 5,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto5.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 6,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto6.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 7,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto7.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 8,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto8.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 9,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto9.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 10,
+    "nombre": "Pendientes de mujer",
+    "descripcion": "Elegantes y versátiles, perfectos para cualquier ocasión.",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto10.jpeg",
+    "categoria": "Bisutería"
+  },
+  {
+    "id": 11,
+    "nombre": "Secador de cabello",
+    "descripcion": "3 niveles de temperatura, 2 velocidades, Gancho para colgar, Protección contra sobre calentamiento, Incluye concentrador de aire para un secado más preciso",
+    "precio": "10,000",
+    "imagen": "assets/img/Producto11.jpeg",
+    "categoria": "Electrodomésticos"
+  },
+  {
+    "id": 12,
+    "nombre": "Cocinita de Barbie",
+    "descripcion": "Color: Rosado, Simulador de grifo real, 34 accesorios (utensilios de cocina y alimentos), Luz ( 3 baterías AA), NO INCLUYE BATERIAS",
+    "precio": "25,000",
+    "imagen": "assets/img/Producto12.jpeg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 13,
+    "nombre": "Tienda para jugar",
+    "descripcion": "Diseño: Space Station, Medida: 95x70x104 cm, Facil de armar y desarmar, Incluye 50 bolas de colores.",
+    "precio": "21,300",
+    "imagen": "assets/img/Producto13.jpeg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 14,
+    "nombre": "Tienda para jugar",
+    "descripcion": "Diseño: La Sirenita, Medida: 95x70x104 cm, Facil de armar y desarmar, Incluye 50 bolas de colores.",
+    "precio": "21,300",
+    "imagen": "assets/img/Producto14.jpeg",
+    "categoria": "Juguetes"
+  } ,
+  {
+    "id": 15,
+    "nombre": "Toalla Dinosaurio Rex",
+    "descripcion": "Material: 95% algodón - 3% poliéster - 2% rayón, Medida: 67x135cm, Cantidad: 2",
+    "precio": "9,600 c/u",
+    "imagen": "assets/img/Producto15.jpeg",
+    "categoria": "Hogar"
+  } ,
+  {
+    "id": 16,
+    "nombre": "Toalla Cosmos",
+    "descripcion": "Material: 95% algodón - 3% poliéster - 2% rayón, Medida: 67x135cm, Cantidad: 2",
+    "precio": "9,600 c/u",
+    "imagen": "assets/img/Producto16.jpeg",
+    "categoria": "Hogar"
+  } ,
+  {
+    "id": 17,
+    "nombre": "Figura decorativa",
+    "descripcion": "Figura para celular, Capibara, Variedad de diseños disponibles",
+    "precio": "2,500",
+    "imagen": "assets/img/Producto17.jpeg",
+    "categoria": "Accesorios"
+  } ,
+  {
+    "id": 18,
+    "nombre": "Figura decorativa",
+    "descripcion": "Figura para celular, One Piece, Variedad de diseños disponibles",
+    "precio": "2,500",
+    "imagen": "assets/img/Producto18.jpeg",
+    "categoria": "Accesorios"
+  } ,
+  {
+    "id": 19,
+    "nombre": "Calcetines",
+    "descripcion": "Calcetines casuales con patrón de rayas, unitalla, variedad de colores disponibles",
+    "precio": "1,500 el par",
+    "imagen": "assets/img/Producto19.jpeg",
+    "categoria": "Ropa"
+  } ,
+  {
+    "id": 20,
+    "nombre": "Gafas de sol",
+    "descripcion": "Gafas de sol de metal y plástico para hombre, variedad de estilos disponibles",
+    "precio": "1,500 c/u",
+    "imagen": "assets/img/Producto20.jpeg",
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 21,
+    "nombre": "Calcetines",
+    "descripcion": "Diseño: Obras de Arte, Talla: 43-46",
+    "precio": "2,500 el par",
+    "imagen": "assets/img/Producto21.jpeg",
+    "categoria": "Ropa"
+  },
+  {
+    "id": 22,
+    "nombre": "Taza de café",
+    "descripcion": "12 onz con tapa a prueba de fugas, acero inoxidable",
+    "precio": "8,500 c/u",
+    "imagen": "assets/img/Producto22.jpeg",
+    "categoria": "Hogar"
+  },
+  {
+    "id": 23,
+    "nombre": "Calcetines",
+    "descripcion": "Diseño: Dragon Ball Z, Unitalla",
+    "precio": "3,000 el par",
+    "imagen": "assets/img/Producto23.jpeg",
+    "categoria": "Ropa"
+  },
+  {
+    "id": 24,
+    "nombre": "Camiseta",
+    "descripcion": "Diseño: Formula 1, Talla: L",
+    "precio": "8,000",
+    "imagen": "assets/img/Producto24.jpeg",
+    "categoria": "Ropa"
+  },
+  {
+    "id": 25,
+    "nombre": "Camiseta",
+    "descripcion": "Diseño: Formula 1, Talla: M",
+    "precio": "9,000",
+    "imagen": "assets/img/Producto25.jpeg",
+    "categoria": "Ropa"
+  }
+]
