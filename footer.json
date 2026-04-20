@@ -1,31 +1,31 @@
 [
   {
-    "id": f1,
+    "id": "f1",
     "nombre": "Logo",
     "imagen": "assets/img/logo.jpg"
   },
   {
-    "id": f2,
+    "id": "f2",
     "nombre": "Mobile",
     "imagen": "assets/img/mobileIcon.png"
   },
   {
-    "id": f3,
+    "id": "f3",
     "nombre": "Email",
     "imagen": "assets/img/emailIcon.png"
   },
   {
-    "id": f4,
+    "id": "f4",
     "nombre": "Instagram",
     "imagen": "assets/img/instagramIcon.png"
   },
   {
-    "id": f5,
+    "id": "f5",
     "nombre": "Facebook",
     "imagen": "assets/img/facebookIcon.png"
   },
   {
-    "id": f6,
+    "id": "f6",
     "nombre": "WhatsApp",
     "imagen": "assets/img/whatsappFooterIcon.png"
   }
