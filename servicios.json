@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s1",
+    "nombre": "Fondo del header",
+    "imagen": "assets/img/serviciosHeaderFondo.png"
+  },
+  {
+    "id": "s2",
+    "nombre": "Carrito",
+    "imagen": "assets/img/carritoIcon.png"
+  },
+  {
+    "id": "s3",
+    "nombre": "Entregas",
+    "imagen": "assets/img/entregasIcon.png"
+  },
+  {
+    "id": "s4",
+    "nombre": "Método de pago",
+    "imagen": "assets/img/metodoPagoIcon.png"
+  },
+  {
+    "id": "s5",
+    "nombre": "Importante Amarillo",
+    "imagen": "assets/img/importanteIcon1.png"
+  },
+  {
+    "id": "s6",
+    "nombre": "Importante Azul",
+    "imagen": "assets/img/importanteIcon2.png"
+  },
+  {
+    "id": "s7",
+    "nombre": "Calculadora",
+    "imagen": "assets/img/calculadoraIcon.png"
+  },
+  {
+    "id": "s8",
+    "nombre": "Convertir",
+    "imagen": "assets/img/convertirIcon.png"
+  },
+  {
+    "id": "s9",
+    "nombre": "Garantía",
+    "imagen": "assets/img/garantiaIcon.png"
+  },
+  {
+    "id": "s10",
+    "nombre": "Requisitos",
+    "imagen": "assets/img/requisitosIcon.png"
+  },
+  {
+    "id": "s11",
+    "nombre": "Excepción",
+    "imagen": "assets/img/excepcionIcon.png"
+  },
+  {
+    "id": "s12",
+    "nombre": "Proceso",
+    "imagen": "assets/img/procesoIcon.png"
+  }
+]
