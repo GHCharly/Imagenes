@@ -48,5 +48,10 @@
     "id": "i10",
     "nombre": "Horario",
     "imagen": "assets/img/horarioIcon.png"
+  },
+  {
+    "id": "i11",
+    "nombre": "M9M Icon",
+    "imagen": "assets/img/M9MIcon.png"
   }
 ]
