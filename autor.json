@@ -1,0 +1,27 @@
+[
+  {
+    "id": "a1",
+    "nombre": "Autor",
+    "imagen": "assets/img/autor.png"
+  },
+  {
+    "id": "a2",
+    "nombre": "ID",
+    "imagen": "assets/img/idIcon.png"
+  },
+  {
+    "id": "a3",
+    "nombre": "Email",
+    "imagen": "assets/img/emailIcon2.png"
+  },
+  {
+    "id": "a4",
+    "nombre": "Curso",
+    "imagen": "assets/img/cursoIcon.png"
+  },
+  {
+    "id": "a5",
+    "nombre": "Portafolio",
+    "imagen": "assets/img/portafolioIcon.png"
+  }
+]
