@@ -1,32 +1,47 @@
 [
   {
-    "id": "f1",
+    "id": "i1",
     "nombre": "Logo",
     "imagen": "assets/img/logo.jpg"
   },
   {
-    "id": "f2",
+    "id": "i2",
     "nombre": "Mobile",
     "imagen": "assets/img/mobileIcon.png"
   },
   {
-    "id": "f3",
+    "id": "i3",
     "nombre": "Email",
     "imagen": "assets/img/emailIcon.png"
   },
   {
-    "id": "f4",
+    "id": "i4",
     "nombre": "Instagram",
     "imagen": "assets/img/instagramIcon.png"
   },
   {
-    "id": "f5",
+    "id": "i5",
     "nombre": "Facebook",
     "imagen": "assets/img/facebookIcon.png"
   },
   {
-    "id": "f6",
+    "id": "i6",
     "nombre": "WhatsApp",
     "imagen": "assets/img/whatsappFooterIcon.png"
+  },
+  {
+    "id": "i7",
+    "nombre": "WhatsAppFloat",
+    "imagen": "assets/img/whatsappFloatIcon.png"
+  },
+  {
+    "id": "i8",
+    "nombre": "Cargando",
+    "imagen": "assets/img/loadingCirclesIcon.png"
+  },
+  {
+    "id": "i9",
+    "nombre": "TipoCambio",
+    "imagen": "assets/img/tipoCambioIcon.png"
   }
 ]
