@@ -43,5 +43,10 @@
     "id": "i9",
     "nombre": "TipoCambio",
     "imagen": "assets/img/tipoCambioIcon.png"
+  },
+  {
+    "id": "i10",
+    "nombre": "Horario",
+    "imagen": "assets/img/horarioIcon.png"
   }
 ]
