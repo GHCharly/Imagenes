@@ -1,0 +1,27 @@
+[
+  {
+    "id": "n1",
+    "nombre": "Fondo del header",
+    "imagen": "assets/img/aboutHeaderFondo.png"
+  },
+  {
+    "id": "n2",
+    "nombre": "Nosotros",
+    "imagen": "assets/img/nosotros.jpeg"
+  },
+  {
+    "id": "n3",
+    "nombre": "Seguridad",
+    "imagen": "assets/img/seguridadIcon.png"
+  },
+  {
+    "id": "n4",
+    "nombre": "Rapidez",
+    "imagen": "assets/img/rapidezIcon.png"
+  },
+  {
+    "id": "n5",
+    "nombre": "Personalizada",
+    "imagen": "assets/img/personalizadaIcon.png"
+  }
+]
