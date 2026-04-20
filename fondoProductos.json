@@ -1,0 +1,8 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Fondo",
+    "tipo": "Imagen",
+    "ruta": "assets/img/Catalogo.png"
+  }
+]
