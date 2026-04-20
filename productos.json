@@ -198,13 +198,5 @@
     "precio": "9,000",
     "imagen": "assets/img/Producto25.jpeg",
     "categoria": "Ropa"
-  },
-  {
-    "id": 26,
-    "nombre": "Productos",
-    "descripcion": "Imagen de fondo para el header de la página",
-    "precio": "N/A",
-    "imagen": "assets/img/Catalogo.png",
-    "categoria": "N/A"
   }
 ]
