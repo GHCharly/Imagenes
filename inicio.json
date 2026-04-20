@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mtm1",
+    "nombre": "Servicios",
+    "imagen": "assets/img/Carusel1.png"
+  },
+  {
+    "id": "mtm2",
+    "nombre": "Productos",
+    "imagen": "assets/img/Carusel2.png"
+  },
+  {
+    "id": "mtm3",
+    "nombre": "Pedidos en línea",
+    "imagen": "assets/img/pedidoLineaIcon.png"
+  },
+  {
+    "id": "mtm4",
+    "nombre": "Entrega Inmediata",
+    "imagen": "assets/img/entregaInmediataIcon.png"
+  },
+  {
+    "id": "mtm5",
+    "nombre": "Feria de Emprendimiento",
+    "imagen": "assets/videos/FeriaVideo.mp4"
+  },
+  {
+    "id": "mtm6",
+    "nombre": "Unboxing",
+    "imagen": "assets/videos/UnboxingVideo.mp4"
+  },
+  {
+    "id": "mtm7",
+    "nombre": "Nuevo",
+    "imagen": "assets/videos/NuevaColeccion.mp4"
+  },
+  {
+    "id": "mtm8",
+    "nombre": "Podcast Inspirador",
+    "imagen": "https://open.spotify.com/episode/7tnW6WpF4uPtSTbOFM0GPV?si=c9fcb05bdd3a4a13"
+  }
+]
